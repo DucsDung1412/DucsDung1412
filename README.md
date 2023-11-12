@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/226/1020/desktop-wallpaper-java-programming-logo.jpg)](https://rishavchanda.io)
+[![MasterHead](https://e0.pxfuel.com/wallpapers/226/1020/desktop-wallpaper-java-programming-logo.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Đào Đức Dũng</h1>
 <h3 align="center">A passionate frontend - backend developer from Việt Nam</h3>
