@@ -76,12 +76,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
+  </tr>
+ <tr>
+   <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="icon" width="65" height="65" />
       <br>Selenium
     </td>
-  </tr>
- <tr>
    <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="icon" width="65" height="65" />
       <br>Spring
