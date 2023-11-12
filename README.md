@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dũng đức" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dũng đức" height="30" width="40" /></a>
-<a href="https://fb.com/đức dũng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đức dũng" height="30" width="40" /></a>
+<a href="linkedin.com/in/dũng-đức-97b5551b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dũng đức" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004327817063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đức dũng" height="30" width="40" /></a>
 <a href="https://discord.gg/dung0434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dung0434" height="30" width="40" /></a>
 </p>
 
