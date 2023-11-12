@@ -64,12 +64,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
+  </tr>
+ <tr>
+   <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
       <br>SQL Server
     </td>
-  </tr>
- <tr>
    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="65" height="65" />
       <br>Mysql
