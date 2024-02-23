@@ -47,8 +47,8 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="icon" width="65" height="65" />
-      <br>Java
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="icon" width="65" height="65" />
+      <br>CSS
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" />
@@ -64,6 +64,10 @@
     </td>
   </tr>
  <tr>
+   <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="icon" width="65" height="65" />
       <br>React
