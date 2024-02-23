@@ -27,24 +27,16 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="icon" width="65" height="65" />
-      <br>Angulajs
-    </td>
-    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="icon" width="65" height="65" />
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="icon" width="65" height="65" />
-      <br>Dotnet
     </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="icon" width="65" height="65" />
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="65" height="65" />
-      <br>Firebase
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="icon" width="65" height="65" />
+      <br>Jira
     </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="icon" width="65" height="65" />
@@ -77,8 +69,8 @@
       <br>React
     </td>
    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="icon" width="65" height="65" />
-      <br>Selenium
+        <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="icon" width="65" height="65" />
+      <br>Hibernate
     </td>
    <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="icon" width="65" height="65" />
